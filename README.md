@@ -7,6 +7,7 @@ This Power BI project focuses on analyzing historical commodity prices. The proj
 ## Data Source
 
 The Historical Commodity prices is imported from Data.world (https://data.world/rajanm/india-retail-prices-of-key-commodities-from-1997-to-2015).
+The Historical Gdp and Urbanisation Data is imported from Open Government Data Platform of India. Those Datasets are Attached in the Github Repo.
 
 ## Power BI Report
 
