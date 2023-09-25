@@ -35,3 +35,6 @@ The project aims to answer questions such as:
 - What are the trends of Commodity prices?
 - Are there any seasonal patterns in commodity prices?
 - What external factors influence commodity price fluctuations?
+
+![image](https://github.com/Pcssai7093/Commodity-Price-Analysis-with-Power-Bi/assets/91785676/14fe6c23-1404-4449-923c-0913b62bd9d3)
+
