@@ -6,7 +6,7 @@ This Power BI project focuses on analyzing historical commodity prices. The proj
 
 ## Data Source
 
-The data used for this analysis is sourced from [Specify the data source or dataset used]. It includes historical records of commodity prices, covering a range of commodities and spanning multiple years.
+The Historical Commodity prices is imported from Data.world (https://data.world/rajanm/india-retail-prices-of-key-commodities-from-1997-to-2015).
 
 ## Power BI Report
 
