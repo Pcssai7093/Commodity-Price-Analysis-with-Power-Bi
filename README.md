@@ -32,6 +32,6 @@ To explore the commodity price analysis:
 
 The project aims to answer questions such as:
 
-- What are the long-term price trends for specific commodities?
+- What are the trends of Commodity prices?
 - Are there any seasonal patterns in commodity prices?
 - What external factors influence commodity price fluctuations?
